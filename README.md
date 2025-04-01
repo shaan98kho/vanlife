@@ -5,6 +5,8 @@ npm install
 npm start
 ```
 
+## or visit the site live at https://wq-vanlife.netlify.app/
+
 Head over to https://vitejs.dev/ to learn more about configuring vite
 ## About Scrimba
 
