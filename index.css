@@ -740,3 +740,11 @@ img.graph {
     color: #ff8c38;
     margin-right: 5px;
 }
+
+.logout {
+    background: none;
+    outline: none;
+    border: none;
+    color: #1d1d1d;
+    font-weight: bold;
+}
