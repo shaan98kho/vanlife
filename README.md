@@ -6,6 +6,10 @@ npm start
 ```
 
 ## or visit the site live at https://wq-vanlife.netlify.app/
+you may log in as host using the following account information:
+email: b@b.com
+password: p123
+
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
 ## About Scrimba
